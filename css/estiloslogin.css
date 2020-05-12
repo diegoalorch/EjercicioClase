@@ -1,0 +1,16 @@
+.login{
+    margin-left: 350px;
+    margin-top: 110px;
+    width: 650px;
+    height: 550px;
+    text-align: center;
+    background-image: url("../imagen/fondo.jpg");
+    background-color: aqua;
+}
+.button{
+    background-color: black;
+    border-radius: 10rem;
+    font-size: 15px;
+    height: 35px;
+    width: 125px;
+}
